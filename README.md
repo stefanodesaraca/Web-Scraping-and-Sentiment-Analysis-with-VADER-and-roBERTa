@@ -3,7 +3,7 @@
 
 ## **📚 Introduction:**
 
-### This project consists in four parts:
+### This project consists of four main parts:
 ### 1. Web Scraping and Data Collection
 ### 2. Data Extraction from HTML Files and Insertion in an Sqlite3 Database
 ### 3. Executing a Complete Analysis Structured in:
