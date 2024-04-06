@@ -1,5 +1,5 @@
 
-# Trustpilot Reviews Using VADER and CardiffNLP's roBERTa
+# Trustpilot Reviews Web Scraping and Sentiment Analysis Using VADER and CardiffNLP's roBERTa
 
 ## **📚 Introduction:**
 
