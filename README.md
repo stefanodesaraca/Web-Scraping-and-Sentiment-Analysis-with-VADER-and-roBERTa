@@ -19,7 +19,7 @@
 
 ## **💡 Tips:**
 
-### 1. Insert your data into TrustpilotUsefulDataFile.py matching the fields that will communicate with the other files and supply the necessary data to execute many of the functions present in the scripts.
+### 1. Insert your data into TReviewsUsefulInfo.py file matching the fields that will communicate with the other files and supply the necessary data to execute many of the functions present in the scripts.
 
 ```python
 import re
