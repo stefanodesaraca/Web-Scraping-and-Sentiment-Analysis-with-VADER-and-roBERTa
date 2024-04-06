@@ -61,7 +61,7 @@ seleniumExecutablePath = "YOUR PATH/chromedriver.exe"
 ### 3. IMPORTANT: Trustpilot's pages HTML tags can change overtime, thus if the code happens to not be able to parse the HTML code that's likely the problem.
 ### 4. Keep an eye on the countryCodesISO3166.csv file containing ISO3166 country codes. Because there are many files like this around I got one from online and added some missing countries. Be sure that none are missing, otherwise the data insertion in the db won't be possible.
 ### 5. Install all the libraries required to run the code.
-### 6. Do not delete intervals.txt files, otherwise you might not be able to parse all files
+### 6. Do not delete intervals.txt files, otherwise you might not be able to parse all of the HTML files
 
 <br>
 
