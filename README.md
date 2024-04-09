@@ -183,6 +183,10 @@ CPUsNumber = multiprocessing.cpu_count()
 ### We'll export the reviews which have both VADER and roBERTa scores in JSON, CSV and Parquet.
 ###
 ###
-###
-###
+
+### <br>
+
+### References:
+### NLTK's VADER: https://www.nltk.org/api/nltk.sentiment.SentimentIntensityAnalyzer.html?highlight=sentimentintensity
+### roBERTa: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
 ###
