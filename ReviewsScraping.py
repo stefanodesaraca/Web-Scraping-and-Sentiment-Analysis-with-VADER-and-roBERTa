@@ -34,7 +34,7 @@ class RevScraping:
 
 
     def __repr__(self):
-        print(f"Trustpilot Link: {self.tLink} | Company Name: {self.companyName}")
+        return f"Trustpilot Link: {self.tLink} | Company Name: {self.companyName}"
 
 
     def createCompanyDirectory(self):
